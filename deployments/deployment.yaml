@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: webapp-demo
-        image: hachemguetif/cicd:2
+        image: hachemguetif/cicd:
         ports:
         - containerPort: 80
